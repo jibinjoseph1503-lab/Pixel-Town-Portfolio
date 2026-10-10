@@ -1,0 +1,18 @@
+[
+  {
+    "title": "PLACEHOLDER — Visual design piece",
+    "summary": "A short note about what this piece is.",
+    "role": "Visual Design",
+    "year": "2026",
+    "thumbnail": "",
+    "link": "https://example.com"
+  },
+  {
+    "title": "PLACEHOLDER — Side project",
+    "summary": "A short note about what this project is.",
+    "role": "Design + Code",
+    "year": "2025",
+    "thumbnail": "",
+    "link": "https://example.com"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "PLACEHOLDER — Case study one",
+    "summary": "One-line description of the problem, your approach and the result.",
+    "role": "UX / UI Design",
+    "year": "2026",
+    "thumbnail": "",
+    "link": "https://example.com"
+  },
+  {
+    "title": "PLACEHOLDER — Case study two",
+    "summary": "One-line description of the problem, your approach and the result.",
+    "role": "Product Design",
+    "year": "2025",
+    "thumbnail": "",
+    "link": "https://example.com"
+  },
+  {
+    "title": "PLACEHOLDER — Case study three",
+    "summary": "One-line description of the problem, your approach and the result.",
+    "role": "UX Research",
+    "year": "2025",
+    "thumbnail": "",
+    "link": "https://example.com"
+  }
+]

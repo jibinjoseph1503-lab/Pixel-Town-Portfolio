@@ -1,0 +1,7 @@
+{
+  "email": "hello@example.com",
+  "socials": [
+    { "label": "LinkedIn", "url": "https://www.linkedin.com/" },
+    { "label": "Behance", "url": "https://www.behance.net/" }
+  ]
+}
